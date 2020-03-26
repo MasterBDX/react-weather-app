@@ -1,0 +1,12 @@
+.container form{
+    margin-top: 3em;
+}
+
+.container form input[name='city'],
+.container form input[name='country']{
+    background-color: transparent;
+    color: white;
+    border:0;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+}
